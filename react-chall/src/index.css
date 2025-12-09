@@ -1,0 +1,35 @@
+.header {
+  background-color: #282c34;
+  top: 0;
+  color: white;
+}
+.links {
+  flex: 1;
+  display: flex;
+}
+.links a {
+  color: white;
+  margin: 0 1rem;
+  text-decoration: none;
+}
+.titlef {
+  background-color: #282c34;
+  color: white;
+  padding: 1rem 0;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+}
+.article {
+  margin: 12rem;
+  font-size: 1.2rem;
+  line-height: 1.6;
+  margin-left: 10rem;
+}
+.article button {
+  background-color: bisque;
+  border: 1px solid #ccc;
+  height: 4rem;
+  width: 8rem;
+}
